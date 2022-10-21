@@ -1,0 +1,19 @@
+{
+  "name": "assistantnms-cdn",
+  "version": "1.0.0",
+  "description": "A place to store static files on the web for free 😉",
+  "main": "buildIndex.js",
+  "scripts": {
+    "build": "node buildIndex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssistantNMS/CDN.git"
+  },
+  "author": "Kurt Lourens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AssistantNMS/CDN/issues"
+  },
+  "homepage": "https://cdn.nmsassistant.com"
+}
